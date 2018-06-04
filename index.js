@@ -1,4 +1,4 @@
-const cart = [];
+let cart = [];
 
 function getCart() {
  return cart;
